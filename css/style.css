@@ -1,0 +1,308 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,800&display=swap');
+
+body{
+	font-family: Montserrat !important;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+}
+
+.list h5{
+	margin:0;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+	
+}
+
+.coffee .card-header{
+  padding: 0;
+}
+
+
+.card.menu{
+	background-size:cover;
+	background-position: center;
+	background-repeat:no-repeat;
+	color:#fff;
+	text-align:center;
+}
+
+
+
+.overlay{
+	background-color:rgba(0,0,0,0.70)
+}
+
+.menu .card-content{
+	padding:35px 0;
+}
+
+.menu h4{
+	margin:0;
+	font-size:20px;
+}
+
+.menu p{
+	margin:0;
+	font-size:12px;
+}
+
+.menu a{
+	color:#fff;
+}
+
+
+.bg-espresso{
+	background-image: url(../img/bg-coffee.jpg)
+}
+
+.bg-cookies{
+	background-image: url(../img/bg-cookies.jpg)
+}
+
+.bg-lunch{
+	background-image: url(../img/bg-lunch.jpg)
+}
+
+
+.menus .card-content{
+	padding:10px;
+	text-align:center;
+}
+
+.menus h3{
+	font-size: 16px;
+	color:#2D2D2D;
+	margin-bottom: 0;
+
+}
+
+.menus p{
+	font-size:12px;
+	color:#0C9F3C;
+	font-weight:600;
+}
+
+.product{
+	color:#2d2d2d;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+
+.price{
+	color:#0C9F3C;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.button-green{
+	background-color: #0C9F3C !important;
+}
+
+
+
+
+
+.block-title{
+	text-align: center;
+	
+}
+
+
+.overlay-morado{
+	background-color:rgba(102,51,153,0.65);
+	padding:30px!important;
+}
+
+.bg-bdias{
+	background-image:url( ../img/matt-artz-353129-unsplash.jpg)}
+
+
+.doggo{
+	border-radius:100%;
+	width:200px;
+	margin-left: 20%;
+	position:relative;
+	bottom: 50px;
+}
+
+.bobby{
+	text-align: center;
+	
+}
+
+.tres{
+	background-color: #ff6600;
+	color:white;
+	font-size:30px;
+	font-weight: 500;
+	text-align: center;
+	display:block;
+}
+
+.tres span{
+	font-size: 25px;
+	display:block;
+}
+
+
+.medallas{
+	background-color: #EFEFEF;
+	color:#ff6600;
+	font-size:30px;
+	font-weight: 500;
+	text-align: center;
+	display:block;
+	
+}
+
+.medallas span{
+	font-size: 25px;
+	display:block;
+	
+}
+
+.perfil{
+	border-radius:50%;
+	width:100px;}
+	
+.nombre{
+	font-size: 16px;
+	font-weight: bolder;
+}
+
+.nombre-calendario{
+	font-size: 16px;
+	font-weight: bolder;
+	margin-top:0;
+	
+}
+
+.logo-home{
+	margin-top: 30px;
+}
+
+.text-home{
+	text-align: center;
+	font-size: 17px;
+	margin-top: 20px;
+}
+
+.text-home-1{
+	font-size: 12px;
+}
+
+
+
+.lugar{
+	font-size: 12px;
+}
+
+.borde-claro{
+	border-left: 7px solid #FFC600;
+	padding-left: 10px;
+}
+
+.borde-azul{
+	border-left: 7px  solid #00ABFF;
+	padding-left: 10px;
+	
+}
+
+.borde-oscuro{
+	border-left: 7px solid #ff6600;
+	padding-left: 10px;}
+
+
+.numeros{
+	margin-bottom: 20px;
+	
+}
+
+.bottom{
+	margin-bottom:0px !important;
+}
+
+.logo{
+	width:100px;
+}
+
+.bg-calendario{
+	background-image: url(../img/calendario-13.jpg)
+}
+
+
+.doggo2{
+	border-radius:100%;
+	width:150px;
+	margin-left: 25%;
+	position:relative;
+	margin-top:-120px;
+	margin-bottom: 0px;
+}
+
+.navbar{
+	background-color: #663399 !important;
+}
+
+.icono-calendario{
+	width:70px!important;
+}
+;
+.clima-calendario{
+	background-color: #663399 ;
+}
+
+.add-button{
+	color: #ff6600;
+	text-align: center;
+}
+
+.btn{
+	background-color: #ff6600;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+	padding: 13px;
+  margin-top: 30px;
+	margin-bottom: 20px;
+	
+}
+
+.btn-block{
+	border-radius: 50px;
+}
+
+
+.btn i{
+	color: white;
+	font-size: 40px;
+}
+
+.dog-home img{
+	margin-top: 30px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+
+.calendario-bottom{
+	width: 50px !important;
+}
+
+.clima-calendario{
+	background-color: hsla(270,49%,62%,0.97);
+	
+	
+	
+}
