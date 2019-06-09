@@ -254,9 +254,9 @@ h1,h2,h3,h4,h5,h6{
 .icono-calendario{
 	width:70px!important;
 }
-;
+
 .clima-calendario{
-	background-color: #663399 ;
+	background-color: #663399;
 }
 
 .add-button{
@@ -297,12 +297,40 @@ h1,h2,h3,h4,h5,h6{
 
 
 .calendario-bottom{
-	width: 50px !important;
+	width: 40px !important;
+	margin: 0 10px;
+
 }
 
 .clima-calendario{
 	background-color: hsla(270,49%,62%,0.97);
-	
-	
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.textbottom-calendar{
+	color:white;
+	border-right: 2px solid #fff;
 	
 }
+
+.textbottom-calendar h5{
+	font-size: 16px;
+}
+
+.textbottom-calendar p{
+	font-size: 12px;
+}
+
+.textbottom-calendar span{
+	font-size: 12px;
+	font-weight: 100;
+}
+
+.circle{
+	width:50px;
+	height: 50px;
+	background-color: rgba(255,255,255,0.78);
+	border-radius: 50%;
+}
+
