@@ -226,7 +226,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .bottom{
-	margin-bottom:0px !important;
+	margin-bottom:10px !important;
 }
 
 .logo{
@@ -252,7 +252,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .icono-calendario{
-	width:70px!important;
+	width:60%!important;
 }
 
 .clima-calendario{
@@ -332,5 +332,92 @@ h1,h2,h3,h4,h5,h6{
 	height: 50px;
 	background-color: rgba(255,255,255,0.78);
 	border-radius: 50%;
+}
+
+ login-screen-content{
+	background-color: #ff6600 !important;
+}
+
+
+.logo-intro{
+	width:400px;
+	margin: 20px auto;
+}
+
+
+.purplebut{
+	background-color: #663399 !important;
+}
+
+
+.calendario-topreloj{
+	margin-top: 10px;
+
+
+}
+
+.topborder1{
+	margin-top:10px;
+}
+
+.dogoslide{
+	width:100px;
+	height:100px;
+	margin:0 auto;
+	border-radius: 100%;
+}
+
+.fondo-apadrina{
+	background-image: url( ../img/fondo-adoptar-100.jpg);
+	background-size:contain;
+	margin-top:20px;
+}
+
+.logo-adoptar{
+	width:200px;
+	margin: 0 auto;
+}
+
+.dinero{
+	color:white !important;
+}
+
+.title-apadrina{
+	color:white!important;
+	font-size:20px;
+	font-weight:500; 
+}
+
+.swiper-pagination-bullets{
+	color: #663399 !important;
+	
+}
+
+.md .swiper-pagination-bullet-active{
+	background: #FF6600 !important;
+	
+}
+	
+.money-slide{
+	color:white!important;
+}
+
+.md .block-title{
+	color:white;
+}
+
+.range-bar-active{
+	background: #FF6600 !important;
+	
+}
+
+
+.range-knob{
+	color: #FF6600 !important;
+}
+
+.range-knob::after{
+	color: #FF6600 !important;
+	
 }
 

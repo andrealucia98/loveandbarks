@@ -32,6 +32,13 @@ var myApp = new Framework7({
 
 		
 		{
+		path: '/form/',
+    	url: 'form.html',
+    	name: 'form',
+  		},
+		
+	
+		{
 		path: '/list/',
     	url: 'list.html',
     	name: 'list',
@@ -49,6 +56,12 @@ var myApp = new Framework7({
 		path: '/info/',
     	url: 'info.html',
     	name: 'info',
+  		},
+		
+		{
+		path: '/adopta/',
+    	url: 'adopta.html',
+    	name: 'adopta',
   		},
 		
 		
