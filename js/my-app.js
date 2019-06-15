@@ -66,9 +66,30 @@ var myApp = new Framework7({
 		
 		
 		
+		{
+		path: '/about/',
+    	url: 'about.html',
+    	name: 'about',
+  		},
 		
 		
+		{
+		path: '/rastrear/',
+    	url: 'rastrear.html',
+    	name: 'rastrear',
+  		},
 		
+		{
+		path: '/lugares/',
+    	url: 'lugares.html',
+    	name: 'lugares',
+  		},
+		
+		{
+		path: '/veterinario/',
+    	url: 'veterinario.html',
+    	name: 'veterinario',
+  		},
 		
 		
 		

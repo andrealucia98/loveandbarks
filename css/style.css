@@ -373,6 +373,22 @@ h1,h2,h3,h4,h5,h6{
 	margin-top:20px;
 }
 
+.fondo-apadrina{
+	background-image: url( ../img/fondo-adoptar-100.jpg);
+	background-size:contain;
+	margin-top:20px;
+}
+
+
+.fondo-team{
+	background-image: url( ../img/fondo-morado.png);
+	background-size:contain;
+	margin-top:20px;
+}
+
+
+
+
 .logo-adoptar{
 	width:200px;
 	margin: 0 auto;
@@ -420,4 +436,251 @@ h1,h2,h3,h4,h5,h6{
 	color: #FF6600 !important;
 	
 }
+
+.textos-about{
+	text-align: center!important;
+	color:white!important;
+	font-weight: 300;
+	margin-bottom: 5px;
+}
+
+.textos-morados{
+	text-align: center!important;
+	color:#663399!important;
+	font-weight: 300;
+	margin-bottom: 5px;
+	background-color: white;
+	margin: 30px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	font-size: 12px;
+}
+
+
+/*style Zohar*/
+
+
+.bg-lugares{
+	background-image: url("../img/bg-lugares.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.lugares{
+	color: #FFFFFF!important;
+	font-size: 15px;
+	font-weight: 500;
+	padding-left: 13%;
+	text-align: left !important;
+}
+
+.perfil-lugares{
+	border-radius:50%;
+	width:80px;
+	height:80px;
+	
+}
+
+.bg-mapa{
+	background-image: url("../img/mapa.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 25%;
+	}
+
+
+.btn-lugares{
+	background-color: #663399;
+  	border: none;
+  	color: white !important;
+  	text-align: center;
+  	text-decoration: none !important;
+  	display: inline-block;
+	padding: 8px 26px;
+ 	margin-top: 10px;
+	margin-bottom: 2px;
+	margin-left: 2%;
+	font-weight: 700;
+	
+}
+
+
+.btn-lugares-block{
+	border-radius: 80px;
+}
+
+
+.btn-rastrear{
+	background-color: #ff6600;
+	color:#fff !important;
+  	border: none;
+  	text-align: center !important;
+  	text-decoration: none !important;
+  	display: inline-block;
+	padding: 13px 18px;
+  	margin-top: 80px;
+	margin-bottom: 0px;
+	border-radius: 25px;
+	font-size: 12px;
+	font-weight: 700;
+	align-content: center !important;
+}
+
+.btn-rastrear i{
+	color: white;
+	font-size: 20px;
+	padding-right: 10px;
+}
+
+.foto-hotel{
+	width: 100px;
+}
+
+.findgps{
+	position:relative;
+	color:#fff;
+}
+
+.findgps-info{
+	position:absolute;
+	top: 50px;
+	left: 70px;
+}
+
+.findgps-info2{
+	position:absolute;
+	top: 10px;
+	left: 30px;
+	font-size: 12px;
+}
+
+.findgps-info3{
+	position:absolute;
+	top: 15px;
+	left: 45px;
+	font-size: 10px;
+}
+
+.asistencia{
+	background-image: url("../img/rastrear-3.png");
+	background-size: cover;
+}
+
+.alimento{
+	background-image: url("../img/rastrear-2.png");
+	background-size: cover;
+}
+
+.bg-rastrear{
+	background-image: url("../img/bg-rastrear.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.bg-vet{
+	background-image: url("../img/bg-vet_1.png") !important;
+	background-size: cover !important;
+	background-repeat: no-repeat;
+}
+
+.gps-der{
+	margin-right:100% !important;
+	margin-left:0;
+	width: 105%;
+}
+
+.gps-izq{
+	margin-right: 0 !important;
+	padding: 0!important;
+	margin-left: 12px;
+	width: 120%;
+}
+
+.gps i{
+	font-size: 25px;
+}
+
+.gps-act{
+	padding-left: 3%!important;
+	padding-top: 0;
+}
+
+.emergencia-info{
+	color: #555;
+	font-size: 12px;
+	text-align: center;
+}
+
+.stars-info{
+	font-size: 18px !important;
+	padding-left: 5%;
+	padding-top: 5%;
+
+}
+
+.sobre{
+	color:#777777;
+	font-size: 18px !important;
+	padding-left: 5%;
+	font-weight: 500 !important;
+}
+
+.sobreinfo{
+	padding-left: 5%;
+	font-size: 14px;
+	color: #777777;
+}
+
+.stars{
+	top: 100% !important;
+}
+
+.donde{
+	padding-top: 15%;
+	color: #fff;
+}
+
+.donde h4{
+	font-size: 23px;
+	font-weight: 700;
+	padding-left: 3%;
+}
+
+.donde-info{
+	padding-left: 5%;
+	font-weight: 700;
+	padding-top: 3%;
+}
+
+.donde-info2{
+	padding-left: 5%;
+	font-weight: 600;
+}
+
+.btn-vet{
+	background-color: #fff;
+  	border: none;
+  	color: #000000 !important;
+  	text-align: center;
+  	text-decoration: none !important;
+  	display: inline-block;
+	padding: 8px 26px;
+ 	margin-top: 10%;
+	margin-bottom: 2px;
+	font-weight: 700;
+}
+
+.btn-vet-block{
+	border-radius: 80px;
+}
+
+
+.stars i{
+	font-size: 18px;
+}
+
+
+
+
+
 
