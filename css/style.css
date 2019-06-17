@@ -680,6 +680,94 @@ h1,h2,h3,h4,h5,h6{
 }
 
 
+/*style Vels*/
+
+#chat{
+	background-image: url( ../img/L&B-02.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 80px;
+	padding-bottom: 20px;
+}
+
+.chat{
+	text-align: center;
+	color: white;
+}
+
+.chatimg{
+	align-content: center;
+	padding: 0 auto;
+}
+
+.blob{
+	background-image: url(../img/L&B-01.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 180px 0;
+}
+
+
+.text{
+	color: white;
+}
+
+.luz-naturaleza{
+	color: #fff;
+}
+
+.naturaleza-info{
+	position:absolute;
+	top: 10px;
+	left: 45px;
+	font-size: 10px;
+	padding-left: 20px;
+}
+
+
+.playa{
+	position:relative;
+	color:#fff;
+	margin-top: -80px;
+	margin-left: 10px;
+	
+}
+
+.playa img{
+	height: 220px;
+}
+
+.playa-info{
+	position:absolute;
+	top: 10px;
+	left: 45px;
+	font-size: 10px;
+	padding-left: 5px;
+	color: #FFF;
+}
+
+.cultura{
+	position:relative;
+	color:#fff;
+	margin-left: 10px;
+	
+}
+
+.cultura img{
+	height: 130px;
+}
+
+.cultura-info{
+	position:absolute;
+	top: 10px;
+	left: 45px;
+	font-size: 10px;
+	padding-left: 5px;
+	color: #FFF;
+}
+
 
 
 

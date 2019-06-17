@@ -91,6 +91,18 @@ var myApp = new Framework7({
     	name: 'veterinario',
   		},
 		
+		{
+		path: '/actividades/',
+    	url: 'actividades.html',
+    	name: 'veterinario',
+  		},
+		
+		{
+		path: '/chat/',
+    	url: 'chat.html',
+    	name: 'chat',
+  		},
+		
 		
 		
 		
